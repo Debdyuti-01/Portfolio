@@ -19,11 +19,11 @@ function Home2() {
               Let me <span className="purple"> introduce</span> myself ..
             </h1>
             <p className="home-about-body">
-            I developed a keen interest in programming and acquired foundational knowledge, or so I believe... 🤷‍♂️
+            I developed a keen interest in programming and acquired foundational knowledge, I believe... 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Java, Python, C++, Javascript and Go </b>
+                <b className="purple"> Typescript, JavaScript, golang, Java, etc </b>
               </i>
               <br />
               <br />
