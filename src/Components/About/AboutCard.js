@@ -11,9 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Debdyuti Das </span>
             from <span className="purple"> Los Angeles, USA.</span>
             <br />
-            I am currently pursuing Master's in Computer Science at California State University, Fullerton. I am a full stack developer with knowledge on Typescript, JavaScript, golang, Java etc
-           
-            <br />
+            I am currently pursuing Master's in Computer Science at California State University, Fullerton. I am a full stack developer with knowledge on Typescript, JavaScript, golang, Java. 
+            <br /><br />
             Apart from coding, some other activities that I love to do ..
           </p>
           <ul>
