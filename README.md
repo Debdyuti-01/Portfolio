@@ -1,8 +1,8 @@
-You can fork this repo to modify and make changes of your own. Thanks!
+# Created a digital space portfolio ....
 
 ## Built With
 
-My personal portfolio <a href="https://debdyuti.vercel.app/" target="_blank">Debdyuti.tech</a> which features few of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://debdyuti.vercel.app/" target="_blank">Debdyuti's Portfolio</a> which features few of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
